@@ -33,7 +33,7 @@
   - [*highlightFileSync(fullPath[, opts])*](#highlightfilesyncfullpath-opts)
   - [*highlightFile(fullPath[, opts], callback)*](#highlightfilefullpath-opts-callback)
   - [opts](#opts)
-- [Examples ([*browse*](https://github.com/thlorenz/cardinal/tree/master/examples))](#examples-[browse]https://githubcom/thlorenz/cardinal/tree/master/examples)
+- [Examples](#examples-browse)
 
 
 ## Installation
